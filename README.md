@@ -29,6 +29,6 @@
 
 -----
 
-![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestorefinepro&show_icons=true&hide_border=false&hide=stars&count_private=true)
+![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestorefinepro&show_icons=true&hide_border=true&count_private=true)
 
 
